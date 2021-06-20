@@ -1,4 +1,4 @@
-# Spam Sms
+# Spam Sms (API Officially dead)
 Spam sms Malaysia Number (tested)
 
 # How To Use
